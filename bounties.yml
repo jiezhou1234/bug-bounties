@@ -4298,6 +4298,13 @@ companies:
   contact: mailto:vulnreport@tenable.com
   rewards:
   - '*recognition'
+- company: TECNO Mobile
+  url: https://security.tecno.com/
+  contact: mailto:security.tecno@tecno-mobile.com
+  rewards:
+  - '*bounty'
+  - '*swag'
+  - '*recognition'
 - company: Tencent
   url: https://en.security.tencent.com/
   contact: https://en.security.tencent.com/index.php/report/add
